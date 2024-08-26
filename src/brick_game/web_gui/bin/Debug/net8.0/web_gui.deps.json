@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "web_gui/1.0.0": {
+        "dependencies": {
+          "games": "1.0.0",
+          "race": "1.0.0"
+        },
+        "runtime": {
+          "web_gui.dll": {}
+        }
+      },
+      "games/1.0.0": {
+        "runtime": {
+          "games.dll": {}
+        }
+      },
+      "race/1.0.0": {
+        "dependencies": {
+          "games": "1.0.0"
+        },
+        "runtime": {
+          "race.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "web_gui/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "games/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "race/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

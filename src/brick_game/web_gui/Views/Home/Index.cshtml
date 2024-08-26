@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Dashboard</title>
+    <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+<h1>Game Dashboard</h1>
+
+<div id="game-controls">
+    <button onclick="startGame(1)">Start Snake Game</button>
+    <button onclick="startGame(2)">Start Tetris Game</button>
+    <button onclick="startGame(3)">Start Race Game</button>
+</div>
+
+<canvas id="gameCanvas" width="800" height="600"></canvas>
+
+<div id="game-state">
+    <h2>Game State:</h2>
+    <pre id="state-output">No game running</pre>
+</div>
+
+<script src="js/site.js"></script>
+</body>
+</html>

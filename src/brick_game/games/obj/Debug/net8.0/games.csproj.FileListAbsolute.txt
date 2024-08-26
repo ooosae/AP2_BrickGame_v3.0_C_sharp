@@ -1,0 +1,11 @@
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\games\bin\Debug\net8.0\games.deps.json
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\games\bin\Debug\net8.0\games.dll
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\games\bin\Debug\net8.0\games.pdb
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\games\obj\Debug\net8.0\games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\games\obj\Debug\net8.0\games.AssemblyInfoInputs.cache
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\games\obj\Debug\net8.0\games.AssemblyInfo.cs
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\games\obj\Debug\net8.0\games.csproj.CoreCompileInputs.cache
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\games\obj\Debug\net8.0\games.dll
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\games\obj\Debug\net8.0\refint\games.dll
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\games\obj\Debug\net8.0\games.pdb
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\games\obj\Debug\net8.0\ref\games.dll

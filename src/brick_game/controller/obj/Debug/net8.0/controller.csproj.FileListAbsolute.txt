@@ -1,0 +1,17 @@
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\controller\bin\Debug\net8.0\controller.deps.json
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\controller\bin\Debug\net8.0\controller.dll
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\controller\bin\Debug\net8.0\controller.pdb
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\controller\bin\Debug\net8.0\games.dll
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\controller\bin\Debug\net8.0\race.dll
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\controller\bin\Debug\net8.0\games.pdb
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\controller\bin\Debug\net8.0\race.pdb
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\controller\obj\Debug\net8.0\controller.csproj.AssemblyReference.cache
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\controller\obj\Debug\net8.0\controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\controller\obj\Debug\net8.0\controller.AssemblyInfoInputs.cache
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\controller\obj\Debug\net8.0\controller.AssemblyInfo.cs
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\controller\obj\Debug\net8.0\controller.csproj.CoreCompileInputs.cache
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\controller\obj\Debug\net8.0\controller.csproj.Up2Date
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\controller\obj\Debug\net8.0\controller.dll
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\controller\obj\Debug\net8.0\refint\controller.dll
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\controller\obj\Debug\net8.0\controller.pdb
+C:\Users\theca\OneDrive\Рабочий стол\21 school\C#\AP2\src\brick_game\controller\obj\Debug\net8.0\ref\controller.dll

@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+      <Prefer32bit>false</Prefer32bit>
+      <PlatformTarget>x86</PlatformTarget>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+      <Prefer32bit>false</Prefer32bit>
+      <PlatformTarget>x86</PlatformTarget>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\controller\controller.csproj" />
+      <ProjectReference Include="..\games\games.csproj" />
+      <ProjectReference Include="..\race\race.csproj" />
+    </ItemGroup>
+
+</Project>
